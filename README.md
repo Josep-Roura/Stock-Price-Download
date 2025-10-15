@@ -1,8 +1,3 @@
-Perfecto ✅ — aquí tienes un **README.md limpio y directo**, pensado para alguien que solo quiere **instalar la librería, ejecutar el código y ver los resultados**, sin explicaciones innecesarias.
-Funciona para **cualquier acción** (no solo AMZN).
-
----
-
 ````markdown
 # 📈 Descargar y analizar datos de acciones con Python
 
