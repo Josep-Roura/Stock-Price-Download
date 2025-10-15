@@ -1,4 +1,4 @@
-````markdown
+````
 # 📈 Descargar y analizar datos de acciones con Python
 
 Este tutorial permite obtener y visualizar los precios históricos de **cualquier acción** usando Python, sin necesidad de descargar archivos manualmente.
