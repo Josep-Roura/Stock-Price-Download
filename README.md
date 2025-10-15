@@ -62,6 +62,8 @@ plt.show()
 
 1. Una tabla con los precios descargados.
 2. Un gráfico que muestra la evolución del precio de la acción en el periodo indicado.
+3. El CSV se exporta con las siguientes columnas Price, Close, High, Low, Open, Volume
+
 
 ---
 
